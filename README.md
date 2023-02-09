@@ -8,8 +8,10 @@
 <ol>
         <li> Introduction
         <li> Part I - Probability 
+        <ul>    
             <li> Assessment Stage
             <li> Clean Stage
+        </ul>
         <li> Part II - A/B Test
         <li> Part III - Regression
         <li> Conclusion
