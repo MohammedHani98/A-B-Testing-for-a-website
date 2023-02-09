@@ -5,15 +5,15 @@
 - The project utilizes Python language to perform the statistical analysis and hypothesis testing for the final decision
 - This project is part of Udacity Data Analysis project for Data Analytics Track
 ## Table of Contents
-1. Introduction
-2. Part I - Probability
-
-2.1.  Assessment Stage
-
-2.2.  Clean Stage
-3. Part II - A/B Test
-4. Part III - Regression
-5. Conclusion
+    <ol>
+        <li> Introduction
+        <li> Part I - Probability 
+            <li> Assessment Stage
+            <li> Clean Stage
+        <li> Part II - A/B Test
+        <li> Part III - Regression
+        <li> Conclusion
+    </ol>
 
 ## Conclusion
 To conclude, our analysis have reached the following results:
